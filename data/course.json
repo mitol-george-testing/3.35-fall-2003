@@ -1,0 +1,32 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Materials Science and Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "686206aa-9c66-bef7-174a-5578fff8826a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Fracture and Fatigue",
+  "course_description": "Investigation of linear elastic and elastic-plastic fracture mechanics. Topics include microstructural effects on fracture in metals, ceramics, polymers, thin films, biological materials and composites, toughening mechanisms, crack growth resistance and creep fracture. Also covered: interface fracture mechanics, fatigue damage and dislocation substructures in single crystals, stress- and strain-life approach to fatigue, fatigue crack growth models and mechanisms, variable amplitude fatigue, corrosion fatigue and case studies of fracture and fatigue in structural, bioimplant, and microelectronic components.\n",
+  "department_numbers": [
+    "3"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3.35",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
